@@ -17,7 +17,7 @@ a{
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
-    display: inline;
+    display: flex;
   }
   
   a:hover, a:active {
