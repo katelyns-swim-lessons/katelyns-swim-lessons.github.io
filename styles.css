@@ -1,71 +1,49 @@
-body 
+html, body {
+  height: 100%;
+  margin: 0;
+}
 
+.full-height {
+  height: 100%;
+  background: #003C47;
+}
+body 
  {
+    min-height: 100%;
     background-color: #003C47;
+    color: whitesmoke;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
   }
 a{
     font-family: 'Open Sans', sans-serif;
 
 }
 
-
-  h1 {
-    color: whitesmoke;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-  }
-  h2 {
-    color: whitesmoke;
-    font-family: 'Open Sans', sans-serif;
-  }
-  p
-   {
-    color: whitesmoke;
-    font-family: 'Open Sans', sans-serif;
-}
-/* unvisited link */
-a:link {
-    color: #00A3BF;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: #00A3BF;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: #00A3BF;
-  }
-  
-  /* selected link */
-  a:active {
-    color: #00A3BF;
-  }
-  a:link {
-    background-color: #003C47;
-  }
-  
-  a:visited {
-    background-color: #003C47;
-  }
-  
-  a:hover {
-    background-color: #00A3BF;
-  }
-  
-  a:active {
-    background-color: #00A3BF;
-  } 
   a:link, a:visited {
-    background-color: #003C47;
+    background-color: transparent;
     color: white;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
   }
   
   a:hover, a:active {
     background-color: #00A3BF;
   }
+  body { font-size: 16px; width: 600px; margin: 25px auto;  }
+
+  button {
+    background-color: #003C47;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+} 
+
+button:hover, button:active {
+  background-color: #00A3BF
+}
+
