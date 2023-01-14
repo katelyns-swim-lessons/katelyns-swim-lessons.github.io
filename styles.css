@@ -12,12 +12,13 @@ a{
 }
 
   a:link, a:visited {
-    background-color: transparent;
+    background-color: #003C47;
     color: white;
+    padding: 14px 25px;
+    text-align: center;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
   }
-  
   a:hover, a:active {
     background-color: #00A3BF;
   }
