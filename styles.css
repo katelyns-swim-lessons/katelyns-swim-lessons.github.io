@@ -14,8 +14,6 @@ a{
   a:link, a:visited {
     background-color: transparent;
     color: white;
-    padding: 14px 25px;
-    text-align: center;
     text-decoration: none;
     display: inline;
   }
