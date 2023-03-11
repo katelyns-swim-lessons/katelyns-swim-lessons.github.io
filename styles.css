@@ -5,10 +5,17 @@ body
     color: whitesmoke;
     font-family: 'Open Sans', sans-serif;
   }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 a{
     font-family: 'Open Sans', sans-serif;
 
 }
+
 
   a:link, a:visited {
     background-color: #003C47;
