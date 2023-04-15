@@ -39,7 +39,7 @@ a#download {
 
 #bannerimage {
   width: 100%;
-  background-image: url(https://github.com/katelyns-swim-lessons/katelyns-swim-lessons.github.io/blob/master/My%20project.jpg?raw=true);
+  background-image: url(https://raw.githubusercontent.com/katelyns-swim-lessons/katelyns-swim-lessons.github.io/master/My%20project.jpg);
   height: 405px;
   background-color: purple;
   background-position: center;
