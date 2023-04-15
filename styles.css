@@ -37,12 +37,11 @@ a#download {
     border-radius: 10px;
 }
 
-#bannerimage {
-  width: 100%;
-  background-image: url(https://raw.githubusercontent.com/katelyns-swim-lessons/katelyns-swim-lessons.github.io/master/My%20project.jpg);
-  height: 405px;
-  background-color: purple;
-  background-position: center;
+.bgImgCenter{
+    background-image: url('https://raw.githubusercontent.com/katelyns-swim-lessons/katelyns-swim-lessons.github.io/master/My%20project.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
 }
 
 a{
