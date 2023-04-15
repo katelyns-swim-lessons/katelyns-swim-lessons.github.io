@@ -38,7 +38,7 @@ a#download {
 }
 
 .bgImgCenter{
-    background-image: url('bannerimg.jpg');
+    background-image: url("bannerimg.jpg");
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
