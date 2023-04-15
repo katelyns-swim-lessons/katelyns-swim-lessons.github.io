@@ -16,6 +16,13 @@ a{
 
 }
 
+#bannerimage {
+  width: 100%;
+  background-image: /banner.jpg;
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
 
   a:link, a:visited {
     background-color: #003C47;
