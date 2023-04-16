@@ -37,8 +37,10 @@ a#download {
     border-radius: 10px;
 }
 
-.bgImgCenter{
+.bannerimg {
     background-image: url("bannerimg.jpg");
+    max-height:1920;
+    max-width: 1060;
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
