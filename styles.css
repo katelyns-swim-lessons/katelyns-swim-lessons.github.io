@@ -37,8 +37,7 @@ a#download {
     border-radius: 10px;
 }
 
-.bannerimg {
-    background-image: url("bannerimg.jpg");
+.bannerimg img {
     max-height: 50%;
     max-width: 95%;
     background-repeat: no-repeat;
