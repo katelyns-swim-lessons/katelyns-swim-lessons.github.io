@@ -22,22 +22,16 @@ img {
   padding: 8px;
 }
 
-#Schedule tr:nth-child(even){background-color: #f2f2f2;}
+#Schedule tr:nth-child(even){background-color: #003C47;}
 
-#Schedule tr:hover {background-color: #ddd;}
+#Schedule tr:hover {background-color: #003C47}
 
 #Schedule th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #04AA6D;
+  background-color: #003C47;
   color: white;
-}
-
-#header {
-    background: #664c8f;
-    height: auto;
-    padding: 100px 100px
 }
 
 h1 {
