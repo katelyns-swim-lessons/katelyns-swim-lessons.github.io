@@ -38,8 +38,8 @@ a#download {
 }
 
 .bannerimg img {
-    max-height: 50%;
-    max-width: 95%;
+  max-width: 100%;
+  height: auto;
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
