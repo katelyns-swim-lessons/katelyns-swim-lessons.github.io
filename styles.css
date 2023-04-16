@@ -39,8 +39,8 @@ a#download {
 
 .bannerimg {
     background-image: url("bannerimg.jpg");
-    max-height:1650;
-    max-width: 1060;
+    max-height:75%;
+    max-width: 95%;
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
