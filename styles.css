@@ -11,6 +11,29 @@ img {
   height: auto;
 }
 
+#Schedule {
+  font-family: 'Open Sans', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#Schedule td, #Schedule th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#Schedule tr:nth-child(even){background-color: #f2f2f2;}
+
+#Schedule tr:hover {background-color: #ddd;}
+
+#Schedule th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
 #header {
     background: #664c8f;
     height: auto;
